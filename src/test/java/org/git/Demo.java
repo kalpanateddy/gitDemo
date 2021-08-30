@@ -15,7 +15,9 @@ public class Demo {
 			}
 
 		}
-
+private void pull() {
+System.out.println("code of pull ");
+}
 
 
 
