@@ -16,7 +16,9 @@ public class Demo {
 
 		}
 
+	private void sample() {
+System.out.println("master change to clone now we add some code and pull");
+	
 
-
-
+}
 }
